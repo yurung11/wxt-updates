@@ -1,0 +1,3 @@
+version=269
+packageUrl=https://github.com/yurung11/wxt-updates/releases/download/v269/WXT-update-269.zip
+
