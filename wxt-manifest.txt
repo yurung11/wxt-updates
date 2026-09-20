@@ -1,3 +1,4 @@
-version=269
-packageUrl=https://github.com/yurung11/wxt-updates/releases/download/v269/WXT-update-269.zip
-
+version=270
+packageUrl=https://github.com/yurung11/wxt-updates/releases/download/v270/WXT-update-270.zip
+sha256=1025357af9935e9fae26079860fb83bea1194dd133e01bd91b251fcea46a53ac
+signature=relPDIPFegcFc7Op2DriONV8gjqq47HWoTNZswkopR+iTXgR0nnEnWvJ9FXXufJpyCCA1CpU/6ye0/0fFcS3FKQl6GbM55blpdxZwIHeva2yG8/+hjvaAIE/+7nRaN7ZYnXaNe5NjuwDz03XvT8z4iICcU9MvI7mCV93paFPkUpm+rRhjfqac+9u8/xhU/KEWobFT+jyJ3/G+DGHR6Jjplr0/K5f+oirwd44Yj2epSoBBykS3kOMjkz/kCDFwB9lVRabx30qfKqIo8PRtHlav99hTRsGnpa4psSm7Fkc1tbeqbJZFeBJ9mhXcGygV9eWGfeeLGqtFwqvYNKo6GQRdg==
